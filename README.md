@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **c++, css, react**
 
-- 📫 How to reach me **Email-ankurpathak112114118@gmail.com, phone-(+91)9919647708**
+- 📫 How to reach me **Email-ankurpathak906@gmail.com, phone-(+91)9919647708**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
